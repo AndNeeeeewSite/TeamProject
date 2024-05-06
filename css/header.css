@@ -1,0 +1,9 @@
+.header__logo {
+  border-radius: 27px;
+  width: 160px;
+  height: 56px;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}

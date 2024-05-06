@@ -1,0 +1,23 @@
+// Import Folder "Base"
+
+@import "./base/variables.scss";
+@import "./base/reset.scss";
+
+// Import Folder "Components"
+
+@import "./components/header.scss";
+@import "./components/footer.scss";
+
+// Import Folder "Utils"
+
+@import "./utils/mixins.scss";
+@import "./utils/placeholders.scss";
+
+// Import Folder "Pages"
+
+@import "./pages/home.scss";
+@import "./pages/portfolio.scss";
+
+// Base Style
+
+

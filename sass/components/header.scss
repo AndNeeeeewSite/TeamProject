@@ -1,13 +1,13 @@
 @import "../base/variables.scss";
 
 .header {
+
+    margin-top:26px;
+
     &__logo {
         border-radius: 27px;
         width: 160px;
         height: 56px;
         background-color: red;
-        display: flex;
-        justify-content: center;
-        text-align: center;
     }
 }
